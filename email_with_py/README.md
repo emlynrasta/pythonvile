@@ -1,0 +1,1 @@
+using the stmplib and imaplib library to send emails and read inbox respectively
