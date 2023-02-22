@@ -80,7 +80,7 @@ class Emailer:
 
 if __name__ == '__main__':
     cow = Emailer()
-    my_clients = ['emlynat02@gmail.com', 'emlynb99@gmail.com', 'emlynatochon@yahoo.com']
+    my_clients = []
     msg_subject = 'email_to you'
     msg_body = """do you need jesus"""
     cow.send_mail(my_clients, msg_subject, msg_body)
